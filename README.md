@@ -8,7 +8,6 @@ A simple weather application built with Django that displays current weather inf
 * Display current temperature in Celsius
 * Show weather description and icon
 * Display humidity and wind speed
-* Responsive design using Tailwind CSS
 * Error handling for invalid city names
 
 ## Technologies Used 🛠️
@@ -29,6 +28,7 @@ A simple weather application built with Django that displays current weather inf
 ```bash
 git clone Faruq-Feroz/PLP-python-final-project-weather-app.git
 cd PLP-python-final-project-weather-app
+```
 
 ### 2. Set up Virtual Environment
 ```bash
