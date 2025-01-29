@@ -27,9 +27,8 @@ A simple weather application built with Django that displays current weather inf
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
-cd weather-app
-```
+git clone Faruq-Feroz/PLP-python-final-project-weather-app.git
+cd PLP-python-final-project-weather-app
 
 ### 2. Set up Virtual Environment
 ```bash
