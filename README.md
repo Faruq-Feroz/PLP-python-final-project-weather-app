@@ -115,4 +115,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 ## Contact 📧
-Your Name - hassanferoz333@gmail.com
+Hassan Faruq - hassanferoz333@gmail.com
