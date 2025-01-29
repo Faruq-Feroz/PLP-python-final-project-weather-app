@@ -116,4 +116,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact 📧
 Your Name - hassanferoz333@gmail.com
-Project Link: [\[ Repository URL\]](https://github.com/Faruq-Feroz/PLP-python-final-project-weather-app.git)
